@@ -1,0 +1,40 @@
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\DTO\bin\Debug\DTO.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\DTO\bin\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\DTO\bin\Debug\DTO.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\DTO\bin\Debug\DTO.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\DTO\bin\Debug\DTO.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\DTO\bin\Debug\DTO.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\DTO\obj\Debug\DTO.pdb
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\DTO\bin\Debug\DTO.dll
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\DTO\bin\Debug\DTO.pdb
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\DTO\obj\Debug\DTO.Properties.Resources.resources
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\DTO\obj\Debug\DTO.dll
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\DTO\obj\Debug\DTO.pdb
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\DTO\bin\Debug\DTO.dll
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\DTO\bin\Debug\DTO.pdb
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\DTO\obj\Debug\DTO.dll
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\DTO\obj\Debug\DTO.pdb

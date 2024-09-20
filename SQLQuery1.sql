@@ -1,0 +1,1 @@
+Exec sp_changedbowner 'sa'

@@ -1,0 +1,66 @@
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.pdb
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.dll
+C:\Users\DELL\OneDrive\Máy tính\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.pdb
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.dll
+D:\Work\CTU\CT291 - Lap trinh window\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.pdb
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.dll
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.dll
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.dll
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DAL.pdb
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\bin\Debug\DTO.pdb
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.dll
+C:\Users\PC\Source\Repos\SalesManagement\QLyBanVatTu\BUS\obj\Debug\BUS.pdb
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\bin\Debug\BUS.dll
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\bin\Debug\BUS.pdb
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\bin\Debug\DAL.dll
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\bin\Debug\DTO.dll
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\bin\Debug\DAL.pdb
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\bin\Debug\DTO.pdb
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\obj\Debug\BUS.dll
+E:\Project\Project1_Winform\Minh\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\obj\Debug\BUS.pdb
+D:\Project_Winform\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\bin\Debug\BUS.dll
+D:\Project_Winform\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\bin\Debug\BUS.pdb
+D:\Project_Winform\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\bin\Debug\DAL.dll
+D:\Project_Winform\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\bin\Debug\DTO.dll
+D:\Project_Winform\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\bin\Debug\DAL.pdb
+D:\Project_Winform\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\bin\Debug\DTO.pdb
+D:\Project_Winform\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Project_Winform\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Project_Winform\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Project_Winform\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\obj\Debug\BUS.dll
+D:\Project_Winform\SalesManagement-master\SalesManagement-master\QLyBanVatTu\BUS\obj\Debug\BUS.pdb
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\BUS\bin\Debug\BUS.dll
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\BUS\bin\Debug\BUS.pdb
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\BUS\bin\Debug\DAL.dll
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\BUS\bin\Debug\DTO.dll
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\BUS\bin\Debug\DAL.pdb
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\BUS\bin\Debug\DTO.pdb
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\BUS\obj\Debug\BUS.dll
+D:\NĂM 2\Đồ án 1\QLycuahangdongho\BUS\obj\Debug\BUS.pdb
